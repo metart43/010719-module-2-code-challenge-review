@@ -28,8 +28,6 @@
   <%= f.fields_for :item do |item_f| %>
     <%= item_f.label :name %>
     <%= item_f.text_field :name %><br>
-    <%= item_f.label :description %>
-    <%= item_f.text_area :description %><br>
     <%= item_f.label :price %>
     <%= item_f.text_field :price %><br>
   <% end %>
