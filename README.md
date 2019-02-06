@@ -1,7 +1,3 @@
-# Welcome to Step 3
-
-We are done with our model layer! Yay! Now lets think about the views and the order controller. Complete the orders/_form.html.erb and orders_controller.rb files
-
 # Module 2 Code Challenge Review
 
 ## The Domain
