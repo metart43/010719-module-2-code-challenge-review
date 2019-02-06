@@ -1,6 +1,6 @@
-# Welcome to Step 1
+# Welcome to Step 2
 
-Add migrations for the three existing models: Customer, Item, and Order
+The migrations have been added! Next we want to add ActiveRecord validatins, associations, and other macros to our models.
 
 # Module 2 Code Challenge Review
 
