@@ -1,6 +1,6 @@
-# Welcome to Step 2
+# Welcome to Step 3
 
-The migrations have been added! Next we want to add ActiveRecord validatins, associations, and other macros to our models.
+We are done with our model layer! Yay! Now lets think about the views and the order controller. Complete the orders/_form.html.erb and orders_controller.rb files
 
 # Module 2 Code Challenge Review
 
